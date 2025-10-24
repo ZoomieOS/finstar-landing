@@ -35,7 +35,7 @@
         height: 600px;
         border-radius: 50%;
         z-index: -1;
-        filter: blur(100px);
+        filter: blur(70px);
     }
 
     .bg-glow-hero {
@@ -45,8 +45,10 @@
     }
 
     .bg-glow-advantages {
-        top: -20%;
-        right: -13%;
+        width: 200px;
+        height: 200px;
+        top: 13%;
+        right: -4%;
         background: radial-gradient(50% 50% at 50% 50%, rgba(157, 211, 255, 0.4) 0%, rgba(157, 211, 255, 0) 100%);
     }
 
