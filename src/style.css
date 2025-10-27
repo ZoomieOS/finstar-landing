@@ -11,8 +11,11 @@
     --font-display: "Montserrat", sans-serif;
 
     --color-primary: rgba(0, 114, 208, 1);
-    
+
+    --color-header-btn: rgba(11, 70, 164, 1);
+
     --color-heading: rgba(0, 168, 116, 1);
+    --color-hero-btn: rgba(0, 0, 0, 1);
     
     --color-background-card: rgba(239, 249, 255, 1);
     
