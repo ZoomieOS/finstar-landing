@@ -11,20 +11,31 @@
     --font-display: "Montserrat", sans-serif;
 
     --color-primary: rgba(0, 114, 208, 1);
+    
     --color-heading: rgba(0, 168, 116, 1);
+    
     --color-background-card: rgba(239, 249, 255, 1);
+    
     --color-cards-advantages: rgba(243, 243, 243, 1);
+    --color-advantages-subheading: rgba(0, 114, 208, 1);
+
+    --color-why-us-subheading: rgba(0, 114, 208, 1);
     --color-why-us-left: rgba(228, 250, 255, 1);
     --color-why-us-right: rgba(239, 255, 252, 1);
-    --color-card-one: rgba(249, 249, 249, 1);
+    --color-why-us-button: rgba(0, 114, 208, 1);
+    
     --color-card-two-special-text: rgba(127, 17, 0, 1);
     --color-card-three-special-text: rgba(0, 127, 88, 1);
     --color-card-four-special-text: rgba(202, 131, 8, 1);
+    
+    --color-card-one: rgba(249, 249, 249, 1);
     --color-card-two: rgba(255, 245, 238, 1);
     --color-card-three: rgba(239, 252, 243, 1);
     --color-card-four: rgba(255, 250, 210, 1);
+    
     --color-contact-form: rgba(0, 114, 208, 1);
     --color-contact-form-shape: rgba(0, 88, 161, 1);
+    
     --color-footer: rgba(1, 21, 39, 1);
 }
 
